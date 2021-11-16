@@ -1,12 +1,20 @@
 
 .header{
-    color:#ffffff;
+    color: white;
     font-size: 38px;
     background-color: rgb(240, 170, 170);
     text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
 }
-.button{
-    color: white;
-    font-size: 14px;
-    background-color: rgb(240, 170, 170);
+
+.centre{
+    text-align: center;
+}
+
+.img{
+    width: 100%;
+    height: auto;
 }
